@@ -4,4 +4,6 @@
 void main()
 {
 	printf("HELLO\n");
+	printf("Nothing\n");
+	
 }
