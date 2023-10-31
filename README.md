@@ -1,2 +1,2 @@
 #git-linux
-New git to sore files
+New git to store files
